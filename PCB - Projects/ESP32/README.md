@@ -1,5 +1,5 @@
 ESP32 Developmental Board
-This repository contains the schematic for a custom ESP32 development board. The schematic was created as the first step in designing a fully custom PCB for embedded and IoT applications. PCB layout is currently in progress.
+This repository contains the schematic for a custom ESP32 development board. The schematic was created as the first step in designing a fully custom PCB for embedded and IoT applications. 
 
 The board is a 4-Layer design
 
@@ -13,5 +13,6 @@ Features
 7. Fused power supply available on scew terminals
 8. 3.2mm mounting holes (4)
 
-Schematic: Created independently by following the circuit from the github repository: mortens-lab
+Schematic: Created independently by following the circuit from the github repository: mortens-lab/iot-thing
+Layout: the PCB layout is fully original and created from scratch using KiCad
 This project was developed as a personal learning exercise.
