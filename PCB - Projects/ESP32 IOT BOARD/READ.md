@@ -16,3 +16,7 @@ Features
 11. ESD Protection
 12. GPIO Breakout
 13. LED Indicator for Power-ON
+
+Schematic source: Created independently by following the circuit by Phil's Lab PCB Layout 
+
+Fully original layout, designed from scratch including component placement, routing, and clearance optimization.
