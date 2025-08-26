@@ -1,4 +1,5 @@
 ESP32 Developmental Board
+
 This repository contains the schematic for a custom ESP32 development board. The schematic was created as the first step in designing a fully custom PCB for embedded and IoT applications. 
 
 The board is a 4-Layer design
