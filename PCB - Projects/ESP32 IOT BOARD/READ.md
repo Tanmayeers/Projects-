@@ -11,7 +11,7 @@ Features
 6. TEMT6000X01 Ambient Light Sensor
 7. Preamplifier and Microphone
 8. I2C/OLED DISPLAY Breakout
-9. BOOT and RESET Buttons
+9. BOOT and RESET Buttons for manual control during flashing 
 10. USB to UART Bridge Module
 11. ESD Protection
 12. GPIO Breakout
