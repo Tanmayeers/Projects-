@@ -8,12 +8,12 @@ The project is based on the STM32F103C8T6 microcontroller (or compatible), ideal
 
 Features
 
-SWD Header for flashing and debugging
-3.3V Voltage Regulator
-Reset Button
-User Button
-Status LED
-Crystal Oscillator with load capacitors
+SWD Header for flashing and debugging,
+3.3V Voltage Regulator,
+Reset Button,
+User Button,
+Status LED,
+Crystal Oscillator with load capacitors and
 Breakout I/O headers
 
 Schematic source: Created independently by following the circuit by Phil's Lab
